@@ -1,0 +1,8 @@
+{
+  "name": "PDF Digital Signer & DSC Automation",
+  "description": "Professional PDF Digital Signature software. Sign documents using secure USB DSC tokens, soft PFX/P12 credentials, visual interactive stamps, and batch automation processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
